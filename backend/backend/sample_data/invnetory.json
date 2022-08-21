@@ -1,0 +1,92 @@
+[
+	{
+		"ITEM_ID": 2000,
+		"ITEM_NAME": "Computer",
+		"ITEM_CATEGORY": "Electronic",
+		"ITEM_STOCK_QUANTITY": 85
+	},
+	{
+		"ITEM_ID": 2001,
+		"ITEM_NAME": "Mouse",
+		"ITEM_CATEGORY": "Electronic",
+		"ITEM_STOCK_QUANTITY": 38
+	},
+	{
+		"ITEM_ID": 2002,
+		"ITEM_NAME": "Monitor",
+		"ITEM_CATEGORY": "Electronic",
+		"ITEM_STOCK_QUANTITY": 67
+	},
+	{
+		"ITEM_ID": 2003,
+		"ITEM_NAME": "Dinosaur figure",
+		"ITEM_CATEGORY": "Toys",
+		"ITEM_STOCK_QUANTITY": 76
+	},
+	{
+		"ITEM_ID": 2004,
+		"ITEM_NAME": "Doll",
+		"ITEM_CATEGORY": "Toys",
+		"ITEM_STOCK_QUANTITY": 78
+	},
+	{
+		"ITEM_ID": 2005,
+		"ITEM_NAME": "Playing Cards",
+		"ITEM_CATEGORY": "Toys",
+		"ITEM_STOCK_QUANTITY": 36
+	},
+	{
+		"ITEM_ID": 2006,
+		"ITEM_NAME": "Dress",
+		"ITEM_CATEGORY": "Fashion",
+		"ITEM_STOCK_QUANTITY": 91
+	},
+	{
+		"ITEM_ID": 2007,
+		"ITEM_NAME": "Pants",
+		"ITEM_CATEGORY": "Fashion",
+		"ITEM_STOCK_QUANTITY": 29
+	},
+	{
+		"ITEM_ID": 2008,
+		"ITEM_NAME": "Heater",
+		"ITEM_CATEGORY": "Home",
+		"ITEM_STOCK_QUANTITY": 38
+	},
+	{
+		"ITEM_ID": 2009,
+		"ITEM_NAME": "Cooking pot",
+		"ITEM_CATEGORY": "Home",
+		"ITEM_STOCK_QUANTITY": 30
+	},
+	{
+		"ITEM_ID": 2010,
+		"ITEM_NAME": "Sofa",
+		"ITEM_CATEGORY": "Home",
+		"ITEM_STOCK_QUANTITY": 65
+	},
+	{
+		"ITEM_ID": 2011,
+		"ITEM_NAME": "Dirt",
+		"ITEM_CATEGORY": "Garden",
+		"ITEM_STOCK_QUANTITY": 49
+	},
+	{
+		"ITEM_ID": 2012,
+		"ITEM_NAME": "Watering",	
+		"ITEM_CATEGORY": "Garden",
+		"ITEM_STOCK_QUANTITY": 41
+	},
+	{
+		"ITEM_ID": 2013,
+		"ITEM_NAME": "Boots",
+		"ITEM_CATEGORY": "Garden",
+		"ITEM_STOCK_QUANTITY": 29
+	},
+	{
+		"ITEM_ID": 2014,
+		"ITEM_NAME": "NAME",
+		"ITEM_CATEGORY": "Zelda",
+		"ITEM_STOCK_QUANTITY": 82
+	}
+]

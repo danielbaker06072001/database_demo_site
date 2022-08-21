@@ -1,0 +1,86 @@
+[
+	{
+		"LISTING_ID": 4000,
+		"USER_ID": 1,
+		"ITEM_ID": 2006,
+		"ITEM_COST": 17.66
+	},
+	{
+		"LISTING_ID": 4001,
+		"USER_ID": 10,
+		"ITEM_ID": 2001,
+		"ITEM_COST": 9.88
+	},
+	{
+		"LISTING_ID": 4002,
+		"USER_ID": 3,
+		"ITEM_ID": 2005,
+		"ITEM_COST": 33.31
+	},
+	{
+		"LISTING_ID": 4003,
+		"USER_ID": 2,
+		"ITEM_ID": 2008,
+		"ITEM_COST": 27.57
+	},
+	{
+		"LISTING_ID": 4004,
+		"USER_ID": 2,
+		"ITEM_ID": 2001,
+		"ITEM_COST": 41.03
+	},
+	{
+		"LISTING_ID": 4005,
+		"USER_ID": 6,
+		"ITEM_ID": 2013,
+		"ITEM_COST": 55.68
+	},
+	{
+		"LISTING_ID": 4006,
+		"USER_ID": 7,
+		"ITEM_ID": 2014,
+		"ITEM_COST": 13.37
+	},
+	{
+		"LISTING_ID": 4007,
+		"USER_ID": 8,
+		"ITEM_ID": 2013,
+		"ITEM_COST": 55.75
+	},
+	{
+		"LISTING_ID": 4008,
+		"USER_ID": 3,
+		"ITEM_ID": 2002,
+		"ITEM_COST": 17.61
+	},
+	{
+		"LISTING_ID": 4009,
+		"USER_ID": 3,
+		"ITEM_ID": 2002,
+		"ITEM_COST": 13.15
+	},
+	{
+		"LISTING_ID": 4010,
+		"USER_ID": 3,
+		"ITEM_ID": 2002,
+		"ITEM_COST": 14.40
+	},
+	{
+		"LISTING_ID": 4011,
+		"USER_ID": 2,
+		"ITEM_ID": 2007,
+		"ITEM_COST": 49.61
+	},
+	{
+		"LISTING_ID": 4012,
+		"USER_ID": 4,
+		"ITEM_ID": 2004,
+		"ITEM_COST": 23.27
+	},
+	{
+		"LISTING_ID": 4013,
+		"USER_ID": 4,
+		"ITEM_ID": 2009,
+		"ITEM_COST": 36.64
+	}
+]

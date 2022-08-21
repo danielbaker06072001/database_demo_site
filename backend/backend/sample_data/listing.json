@@ -1,0 +1,3002 @@
+[
+	{
+		"LISTING_ID": 6000,
+		"USER_ID": 4219,
+		"ITEM_ID": 8184,
+		"ITEM_COST": 169.91
+	},
+	{
+		"LISTING_ID": 6001,
+		"USER_ID": 4487,
+		"ITEM_ID": 8389,
+		"ITEM_COST": 287.10
+	},
+	{
+		"LISTING_ID": 6002,
+		"USER_ID": 4353,
+		"ITEM_ID": 8161,
+		"ITEM_COST": 170.84
+	},
+	{
+		"LISTING_ID": 6003,
+		"USER_ID": 4222,
+		"ITEM_ID": 8076,
+		"ITEM_COST": 219.80
+	},
+	{
+		"LISTING_ID": 6004,
+		"USER_ID": 4015,
+		"ITEM_ID": 8246,
+		"ITEM_COST": 149.26
+	},
+	{
+		"LISTING_ID": 6005,
+		"USER_ID": 4286,
+		"ITEM_ID": 8158,
+		"ITEM_COST": 103.13
+	},
+	{
+		"LISTING_ID": 6006,
+		"USER_ID": 4021,
+		"ITEM_ID": 8111,
+		"ITEM_COST": 297.20
+	},
+	{
+		"LISTING_ID": 6007,
+		"USER_ID": 4170,
+		"ITEM_ID": 8192,
+		"ITEM_COST": 29.70
+	},
+	{
+		"LISTING_ID": 6008,
+		"USER_ID": 4490,
+		"ITEM_ID": 8076,
+		"ITEM_COST": 171.12
+	},
+	{
+		"LISTING_ID": 6009,
+		"USER_ID": 4440,
+		"ITEM_ID": 8299,
+		"ITEM_COST": 25.12
+	},
+	{
+		"LISTING_ID": 6010,
+		"USER_ID": 4448,
+		"ITEM_ID": 8153,
+		"ITEM_COST": 197.67
+	},
+	{
+		"LISTING_ID": 6011,
+		"USER_ID": 4098,
+		"ITEM_ID": 8283,
+		"ITEM_COST": 275.15
+	},
+	{
+		"LISTING_ID": 6012,
+		"USER_ID": 4270,
+		"ITEM_ID": 8313,
+		"ITEM_COST": 88.10
+	},
+	{
+		"LISTING_ID": 6013,
+		"USER_ID": 4038,
+		"ITEM_ID": 8420,
+		"ITEM_COST": 271.94
+	},
+	{
+		"LISTING_ID": 6014,
+		"USER_ID": 4028,
+		"ITEM_ID": 8429,
+		"ITEM_COST": 117.14
+	},
+	{
+		"LISTING_ID": 6015,
+		"USER_ID": 4006,
+		"ITEM_ID": 8477,
+		"ITEM_COST": 70.83
+	},
+	{
+		"LISTING_ID": 6016,
+		"USER_ID": 4072,
+		"ITEM_ID": 8070,
+		"ITEM_COST": 76.00
+	},
+	{
+		"LISTING_ID": 6017,
+		"USER_ID": 4440,
+		"ITEM_ID": 8465,
+		"ITEM_COST": 156.79
+	},
+	{
+		"LISTING_ID": 6018,
+		"USER_ID": 4333,
+		"ITEM_ID": 8248,
+		"ITEM_COST": 220.96
+	},
+	{
+		"LISTING_ID": 6019,
+		"USER_ID": 4308,
+		"ITEM_ID": 8433,
+		"ITEM_COST": 184.92
+	},
+	{
+		"LISTING_ID": 6020,
+		"USER_ID": 4284,
+		"ITEM_ID": 8429,
+		"ITEM_COST": 121.31
+	},
+	{
+		"LISTING_ID": 6021,
+		"USER_ID": 4111,
+		"ITEM_ID": 8107,
+		"ITEM_COST": 87.61
+	},
+	{
+		"LISTING_ID": 6022,
+		"USER_ID": 4253,
+		"ITEM_ID": 8042,
+		"ITEM_COST": 254.00
+	},
+	{
+		"LISTING_ID": 6023,
+		"USER_ID": 4345,
+		"ITEM_ID": 8463,
+		"ITEM_COST": 279.16
+	},
+	{
+		"LISTING_ID": 6024,
+		"USER_ID": 4120,
+		"ITEM_ID": 8200,
+		"ITEM_COST": 70.69
+	},
+	{
+		"LISTING_ID": 6025,
+		"USER_ID": 4162,
+		"ITEM_ID": 8000,
+		"ITEM_COST": 24.73
+	},
+	{
+		"LISTING_ID": 6026,
+		"USER_ID": 4326,
+		"ITEM_ID": 8027,
+		"ITEM_COST": 270.23
+	},
+	{
+		"LISTING_ID": 6027,
+		"USER_ID": 4316,
+		"ITEM_ID": 8133,
+		"ITEM_COST": 62.88
+	},
+	{
+		"LISTING_ID": 6028,
+		"USER_ID": 4170,
+		"ITEM_ID": 8378,
+		"ITEM_COST": 144.08
+	},
+	{
+		"LISTING_ID": 6029,
+		"USER_ID": 4236,
+		"ITEM_ID": 8125,
+		"ITEM_COST": 12.39
+	},
+	{
+		"LISTING_ID": 6030,
+		"USER_ID": 4471,
+		"ITEM_ID": 8461,
+		"ITEM_COST": 115.74
+	},
+	{
+		"LISTING_ID": 6031,
+		"USER_ID": 4460,
+		"ITEM_ID": 8024,
+		"ITEM_COST": 266.13
+	},
+	{
+		"LISTING_ID": 6032,
+		"USER_ID": 4056,
+		"ITEM_ID": 8147,
+		"ITEM_COST": 149.15
+	},
+	{
+		"LISTING_ID": 6033,
+		"USER_ID": 4206,
+		"ITEM_ID": 8443,
+		"ITEM_COST": 253.99
+	},
+	{
+		"LISTING_ID": 6034,
+		"USER_ID": 4489,
+		"ITEM_ID": 8059,
+		"ITEM_COST": 77.33
+	},
+	{
+		"LISTING_ID": 6035,
+		"USER_ID": 4328,
+		"ITEM_ID": 8228,
+		"ITEM_COST": 28.03
+	},
+	{
+		"LISTING_ID": 6036,
+		"USER_ID": 4457,
+		"ITEM_ID": 8100,
+		"ITEM_COST": 30.74
+	},
+	{
+		"LISTING_ID": 6037,
+		"USER_ID": 4269,
+		"ITEM_ID": 8259,
+		"ITEM_COST": 164.89
+	},
+	{
+		"LISTING_ID": 6038,
+		"USER_ID": 4034,
+		"ITEM_ID": 8220,
+		"ITEM_COST": 70.36
+	},
+	{
+		"LISTING_ID": 6039,
+		"USER_ID": 4231,
+		"ITEM_ID": 8425,
+		"ITEM_COST": 203.62
+	},
+	{
+		"LISTING_ID": 6040,
+		"USER_ID": 4003,
+		"ITEM_ID": 8272,
+		"ITEM_COST": 14.08
+	},
+	{
+		"LISTING_ID": 6041,
+		"USER_ID": 4107,
+		"ITEM_ID": 8206,
+		"ITEM_COST": 133.10
+	},
+	{
+		"LISTING_ID": 6042,
+		"USER_ID": 4486,
+		"ITEM_ID": 8143,
+		"ITEM_COST": 201.41
+	},
+	{
+		"LISTING_ID": 6043,
+		"USER_ID": 4420,
+		"ITEM_ID": 8121,
+		"ITEM_COST": 35.63
+	},
+	{
+		"LISTING_ID": 6044,
+		"USER_ID": 4026,
+		"ITEM_ID": 8293,
+		"ITEM_COST": 185.00
+	},
+	{
+		"LISTING_ID": 6045,
+		"USER_ID": 4102,
+		"ITEM_ID": 8081,
+		"ITEM_COST": 296.94
+	},
+	{
+		"LISTING_ID": 6046,
+		"USER_ID": 4161,
+		"ITEM_ID": 8211,
+		"ITEM_COST": 15.98
+	},
+	{
+		"LISTING_ID": 6047,
+		"USER_ID": 4025,
+		"ITEM_ID": 8088,
+		"ITEM_COST": 291.56
+	},
+	{
+		"LISTING_ID": 6048,
+		"USER_ID": 4274,
+		"ITEM_ID": 8296,
+		"ITEM_COST": 31.67
+	},
+	{
+		"LISTING_ID": 6049,
+		"USER_ID": 4141,
+		"ITEM_ID": 8241,
+		"ITEM_COST": 179.64
+	},
+	{
+		"LISTING_ID": 6050,
+		"USER_ID": 4368,
+		"ITEM_ID": 8015,
+		"ITEM_COST": 21.29
+	},
+	{
+		"LISTING_ID": 6051,
+		"USER_ID": 4358,
+		"ITEM_ID": 8302,
+		"ITEM_COST": 202.99
+	},
+	{
+		"LISTING_ID": 6052,
+		"USER_ID": 4363,
+		"ITEM_ID": 8032,
+		"ITEM_COST": 196.41
+	},
+	{
+		"LISTING_ID": 6053,
+		"USER_ID": 4014,
+		"ITEM_ID": 8467,
+		"ITEM_COST": 294.39
+	},
+	{
+		"LISTING_ID": 6054,
+		"USER_ID": 4173,
+		"ITEM_ID": 8166,
+		"ITEM_COST": 178.34
+	},
+	{
+		"LISTING_ID": 6055,
+		"USER_ID": 4373,
+		"ITEM_ID": 8473,
+		"ITEM_COST": 69.67
+	},
+	{
+		"LISTING_ID": 6056,
+		"USER_ID": 4363,
+		"ITEM_ID": 8056,
+		"ITEM_COST": 39.71
+	},
+	{
+		"LISTING_ID": 6057,
+		"USER_ID": 4274,
+		"ITEM_ID": 8120,
+		"ITEM_COST": 130.58
+	},
+	{
+		"LISTING_ID": 6058,
+		"USER_ID": 4363,
+		"ITEM_ID": 8236,
+		"ITEM_COST": 109.67
+	},
+	{
+		"LISTING_ID": 6059,
+		"USER_ID": 4381,
+		"ITEM_ID": 8314,
+		"ITEM_COST": 116.33
+	},
+	{
+		"LISTING_ID": 6060,
+		"USER_ID": 4201,
+		"ITEM_ID": 8196,
+		"ITEM_COST": 36.41
+	},
+	{
+		"LISTING_ID": 6061,
+		"USER_ID": 4343,
+		"ITEM_ID": 8071,
+		"ITEM_COST": 211.99
+	},
+	{
+		"LISTING_ID": 6062,
+		"USER_ID": 4398,
+		"ITEM_ID": 8449,
+		"ITEM_COST": 42.24
+	},
+	{
+		"LISTING_ID": 6063,
+		"USER_ID": 4343,
+		"ITEM_ID": 8395,
+		"ITEM_COST": 11.02
+	},
+	{
+		"LISTING_ID": 6064,
+		"USER_ID": 4191,
+		"ITEM_ID": 8398,
+		"ITEM_COST": 103.64
+	},
+	{
+		"LISTING_ID": 6065,
+		"USER_ID": 4140,
+		"ITEM_ID": 8177,
+		"ITEM_COST": 250.52
+	},
+	{
+		"LISTING_ID": 6066,
+		"USER_ID": 4417,
+		"ITEM_ID": 8065,
+		"ITEM_COST": 53.45
+	},
+	{
+		"LISTING_ID": 6067,
+		"USER_ID": 4457,
+		"ITEM_ID": 8149,
+		"ITEM_COST": 9.34
+	},
+	{
+		"LISTING_ID": 6068,
+		"USER_ID": 4290,
+		"ITEM_ID": 8291,
+		"ITEM_COST": 105.77
+	},
+	{
+		"LISTING_ID": 6069,
+		"USER_ID": 4072,
+		"ITEM_ID": 8401,
+		"ITEM_COST": 33.86
+	},
+	{
+		"LISTING_ID": 6070,
+		"USER_ID": 4336,
+		"ITEM_ID": 8422,
+		"ITEM_COST": 183.75
+	},
+	{
+		"LISTING_ID": 6071,
+		"USER_ID": 4180,
+		"ITEM_ID": 8323,
+		"ITEM_COST": 107.61
+	},
+	{
+		"LISTING_ID": 6072,
+		"USER_ID": 4317,
+		"ITEM_ID": 8308,
+		"ITEM_COST": 248.56
+	},
+	{
+		"LISTING_ID": 6073,
+		"USER_ID": 4167,
+		"ITEM_ID": 8398,
+		"ITEM_COST": 292.41
+	},
+	{
+		"LISTING_ID": 6074,
+		"USER_ID": 4229,
+		"ITEM_ID": 8368,
+		"ITEM_COST": 213.34
+	},
+	{
+		"LISTING_ID": 6075,
+		"USER_ID": 4347,
+		"ITEM_ID": 8050,
+		"ITEM_COST": 174.22
+	},
+	{
+		"LISTING_ID": 6076,
+		"USER_ID": 4141,
+		"ITEM_ID": 8115,
+		"ITEM_COST": 299.27
+	},
+	{
+		"LISTING_ID": 6077,
+		"USER_ID": 4314,
+		"ITEM_ID": 8042,
+		"ITEM_COST": 294.54
+	},
+	{
+		"LISTING_ID": 6078,
+		"USER_ID": 4198,
+		"ITEM_ID": 8456,
+		"ITEM_COST": 32.03
+	},
+	{
+		"LISTING_ID": 6079,
+		"USER_ID": 4440,
+		"ITEM_ID": 8213,
+		"ITEM_COST": 193.90
+	},
+	{
+		"LISTING_ID": 6080,
+		"USER_ID": 4057,
+		"ITEM_ID": 8326,
+		"ITEM_COST": 46.98
+	},
+	{
+		"LISTING_ID": 6081,
+		"USER_ID": 4074,
+		"ITEM_ID": 8346,
+		"ITEM_COST": 297.14
+	},
+	{
+		"LISTING_ID": 6082,
+		"USER_ID": 4275,
+		"ITEM_ID": 8129,
+		"ITEM_COST": 120.63
+	},
+	{
+		"LISTING_ID": 6083,
+		"USER_ID": 4350,
+		"ITEM_ID": 8067,
+		"ITEM_COST": 118.40
+	},
+	{
+		"LISTING_ID": 6084,
+		"USER_ID": 4208,
+		"ITEM_ID": 8166,
+		"ITEM_COST": 227.83
+	},
+	{
+		"LISTING_ID": 6085,
+		"USER_ID": 4120,
+		"ITEM_ID": 8157,
+		"ITEM_COST": 145.26
+	},
+	{
+		"LISTING_ID": 6086,
+		"USER_ID": 4447,
+		"ITEM_ID": 8119,
+		"ITEM_COST": 124.72
+	},
+	{
+		"LISTING_ID": 6087,
+		"USER_ID": 4332,
+		"ITEM_ID": 8233,
+		"ITEM_COST": 257.06
+	},
+	{
+		"LISTING_ID": 6088,
+		"USER_ID": 4246,
+		"ITEM_ID": 8220,
+		"ITEM_COST": 101.65
+	},
+	{
+		"LISTING_ID": 6089,
+		"USER_ID": 4469,
+		"ITEM_ID": 8044,
+		"ITEM_COST": 66.14
+	},
+	{
+		"LISTING_ID": 6090,
+		"USER_ID": 4390,
+		"ITEM_ID": 8156,
+		"ITEM_COST": 116.77
+	},
+	{
+		"LISTING_ID": 6091,
+		"USER_ID": 4455,
+		"ITEM_ID": 8047,
+		"ITEM_COST": 154.91
+	},
+	{
+		"LISTING_ID": 6092,
+		"USER_ID": 4396,
+		"ITEM_ID": 8066,
+		"ITEM_COST": 111.65
+	},
+	{
+		"LISTING_ID": 6093,
+		"USER_ID": 4057,
+		"ITEM_ID": 8300,
+		"ITEM_COST": 106.39
+	},
+	{
+		"LISTING_ID": 6094,
+		"USER_ID": 4202,
+		"ITEM_ID": 8294,
+		"ITEM_COST": 38.60
+	},
+	{
+		"LISTING_ID": 6095,
+		"USER_ID": 4265,
+		"ITEM_ID": 8348,
+		"ITEM_COST": 263.75
+	},
+	{
+		"LISTING_ID": 6096,
+		"USER_ID": 4489,
+		"ITEM_ID": 8255,
+		"ITEM_COST": 67.32
+	},
+	{
+		"LISTING_ID": 6097,
+		"USER_ID": 4375,
+		"ITEM_ID": 8460,
+		"ITEM_COST": 247.48
+	},
+	{
+		"LISTING_ID": 6098,
+		"USER_ID": 4447,
+		"ITEM_ID": 8348,
+		"ITEM_COST": 130.42
+	},
+	{
+		"LISTING_ID": 6099,
+		"USER_ID": 4070,
+		"ITEM_ID": 8015,
+		"ITEM_COST": 291.04
+	},
+	{
+		"LISTING_ID": 6100,
+		"USER_ID": 4489,
+		"ITEM_ID": 8023,
+		"ITEM_COST": 193.98
+	},
+	{
+		"LISTING_ID": 6101,
+		"USER_ID": 4470,
+		"ITEM_ID": 8166,
+		"ITEM_COST": 180.41
+	},
+	{
+		"LISTING_ID": 6102,
+		"USER_ID": 4382,
+		"ITEM_ID": 8130,
+		"ITEM_COST": 43.72
+	},
+	{
+		"LISTING_ID": 6103,
+		"USER_ID": 4316,
+		"ITEM_ID": 8165,
+		"ITEM_COST": 109.35
+	},
+	{
+		"LISTING_ID": 6104,
+		"USER_ID": 4355,
+		"ITEM_ID": 8412,
+		"ITEM_COST": 153.51
+	},
+	{
+		"LISTING_ID": 6105,
+		"USER_ID": 4189,
+		"ITEM_ID": 8396,
+		"ITEM_COST": 163.72
+	},
+	{
+		"LISTING_ID": 6106,
+		"USER_ID": 4151,
+		"ITEM_ID": 8076,
+		"ITEM_COST": 131.49
+	},
+	{
+		"LISTING_ID": 6107,
+		"USER_ID": 4350,
+		"ITEM_ID": 8077,
+		"ITEM_COST": 105.79
+	},
+	{
+		"LISTING_ID": 6108,
+		"USER_ID": 4125,
+		"ITEM_ID": 8294,
+		"ITEM_COST": 209.87
+	},
+	{
+		"LISTING_ID": 6109,
+		"USER_ID": 4391,
+		"ITEM_ID": 8287,
+		"ITEM_COST": 197.76
+	},
+	{
+		"LISTING_ID": 6110,
+		"USER_ID": 4255,
+		"ITEM_ID": 8433,
+		"ITEM_COST": 241.15
+	},
+	{
+		"LISTING_ID": 6111,
+		"USER_ID": 4449,
+		"ITEM_ID": 8339,
+		"ITEM_COST": 192.03
+	},
+	{
+		"LISTING_ID": 6112,
+		"USER_ID": 4380,
+		"ITEM_ID": 8199,
+		"ITEM_COST": 99.56
+	},
+	{
+		"LISTING_ID": 6113,
+		"USER_ID": 4226,
+		"ITEM_ID": 8054,
+		"ITEM_COST": 34.00
+	},
+	{
+		"LISTING_ID": 6114,
+		"USER_ID": 4078,
+		"ITEM_ID": 8313,
+		"ITEM_COST": 192.49
+	},
+	{
+		"LISTING_ID": 6115,
+		"USER_ID": 4401,
+		"ITEM_ID": 8458,
+		"ITEM_COST": 79.72
+	},
+	{
+		"LISTING_ID": 6116,
+		"USER_ID": 4484,
+		"ITEM_ID": 8244,
+		"ITEM_COST": 188.05
+	},
+	{
+		"LISTING_ID": 6117,
+		"USER_ID": 4191,
+		"ITEM_ID": 8266,
+		"ITEM_COST": 119.35
+	},
+	{
+		"LISTING_ID": 6118,
+		"USER_ID": 4419,
+		"ITEM_ID": 8249,
+		"ITEM_COST": 153.84
+	},
+	{
+		"LISTING_ID": 6119,
+		"USER_ID": 4365,
+		"ITEM_ID": 8182,
+		"ITEM_COST": 36.62
+	},
+	{
+		"LISTING_ID": 6120,
+		"USER_ID": 4064,
+		"ITEM_ID": 8016,
+		"ITEM_COST": 216.96
+	},
+	{
+		"LISTING_ID": 6121,
+		"USER_ID": 4146,
+		"ITEM_ID": 8300,
+		"ITEM_COST": 35.06
+	},
+	{
+		"LISTING_ID": 6122,
+		"USER_ID": 4381,
+		"ITEM_ID": 8188,
+		"ITEM_COST": 92.79
+	},
+	{
+		"LISTING_ID": 6123,
+		"USER_ID": 4089,
+		"ITEM_ID": 8132,
+		"ITEM_COST": 89.86
+	},
+	{
+		"LISTING_ID": 6124,
+		"USER_ID": 4380,
+		"ITEM_ID": 8363,
+		"ITEM_COST": 252.30
+	},
+	{
+		"LISTING_ID": 6125,
+		"USER_ID": 4386,
+		"ITEM_ID": 8403,
+		"ITEM_COST": 93.16
+	},
+	{
+		"LISTING_ID": 6126,
+		"USER_ID": 4042,
+		"ITEM_ID": 8033,
+		"ITEM_COST": 285.79
+	},
+	{
+		"LISTING_ID": 6127,
+		"USER_ID": 4469,
+		"ITEM_ID": 8427,
+		"ITEM_COST": 142.35
+	},
+	{
+		"LISTING_ID": 6128,
+		"USER_ID": 4489,
+		"ITEM_ID": 8230,
+		"ITEM_COST": 228.16
+	},
+	{
+		"LISTING_ID": 6129,
+		"USER_ID": 4453,
+		"ITEM_ID": 8028,
+		"ITEM_COST": 56.05
+	},
+	{
+		"LISTING_ID": 6130,
+		"USER_ID": 4365,
+		"ITEM_ID": 8163,
+		"ITEM_COST": 163.74
+	},
+	{
+		"LISTING_ID": 6131,
+		"USER_ID": 4071,
+		"ITEM_ID": 8073,
+		"ITEM_COST": 109.94
+	},
+	{
+		"LISTING_ID": 6132,
+		"USER_ID": 4245,
+		"ITEM_ID": 8012,
+		"ITEM_COST": 245.03
+	},
+	{
+		"LISTING_ID": 6133,
+		"USER_ID": 4365,
+		"ITEM_ID": 8104,
+		"ITEM_COST": 266.37
+	},
+	{
+		"LISTING_ID": 6134,
+		"USER_ID": 4033,
+		"ITEM_ID": 8188,
+		"ITEM_COST": 214.82
+	},
+	{
+		"LISTING_ID": 6135,
+		"USER_ID": 4355,
+		"ITEM_ID": 8028,
+		"ITEM_COST": 264.70
+	},
+	{
+		"LISTING_ID": 6136,
+		"USER_ID": 4035,
+		"ITEM_ID": 8045,
+		"ITEM_COST": 195.56
+	},
+	{
+		"LISTING_ID": 6137,
+		"USER_ID": 4260,
+		"ITEM_ID": 8295,
+		"ITEM_COST": 289.05
+	},
+	{
+		"LISTING_ID": 6138,
+		"USER_ID": 4039,
+		"ITEM_ID": 8479,
+		"ITEM_COST": 295.21
+	},
+	{
+		"LISTING_ID": 6139,
+		"USER_ID": 4135,
+		"ITEM_ID": 8465,
+		"ITEM_COST": 94.09
+	},
+	{
+		"LISTING_ID": 6140,
+		"USER_ID": 4196,
+		"ITEM_ID": 8207,
+		"ITEM_COST": 40.41
+	},
+	{
+		"LISTING_ID": 6141,
+		"USER_ID": 4343,
+		"ITEM_ID": 8083,
+		"ITEM_COST": 152.91
+	},
+	{
+		"LISTING_ID": 6142,
+		"USER_ID": 4138,
+		"ITEM_ID": 8270,
+		"ITEM_COST": 67.77
+	},
+	{
+		"LISTING_ID": 6143,
+		"USER_ID": 4346,
+		"ITEM_ID": 8264,
+		"ITEM_COST": 202.78
+	},
+	{
+		"LISTING_ID": 6144,
+		"USER_ID": 4469,
+		"ITEM_ID": 8427,
+		"ITEM_COST": 80.97
+	},
+	{
+		"LISTING_ID": 6145,
+		"USER_ID": 4449,
+		"ITEM_ID": 8173,
+		"ITEM_COST": 292.31
+	},
+	{
+		"LISTING_ID": 6146,
+		"USER_ID": 4140,
+		"ITEM_ID": 8211,
+		"ITEM_COST": 222.82
+	},
+	{
+		"LISTING_ID": 6147,
+		"USER_ID": 4411,
+		"ITEM_ID": 8496,
+		"ITEM_COST": 184.70
+	},
+	{
+		"LISTING_ID": 6148,
+		"USER_ID": 4149,
+		"ITEM_ID": 8281,
+		"ITEM_COST": 235.47
+	},
+	{
+		"LISTING_ID": 6149,
+		"USER_ID": 4151,
+		"ITEM_ID": 8313,
+		"ITEM_COST": 78.43
+	},
+	{
+		"LISTING_ID": 6150,
+		"USER_ID": 4167,
+		"ITEM_ID": 8495,
+		"ITEM_COST": 63.84
+	},
+	{
+		"LISTING_ID": 6151,
+		"USER_ID": 4246,
+		"ITEM_ID": 8252,
+		"ITEM_COST": 167.30
+	},
+	{
+		"LISTING_ID": 6152,
+		"USER_ID": 4009,
+		"ITEM_ID": 8429,
+		"ITEM_COST": 154.72
+	},
+	{
+		"LISTING_ID": 6153,
+		"USER_ID": 4421,
+		"ITEM_ID": 8470,
+		"ITEM_COST": 267.15
+	},
+	{
+		"LISTING_ID": 6154,
+		"USER_ID": 4443,
+		"ITEM_ID": 8105,
+		"ITEM_COST": 233.32
+	},
+	{
+		"LISTING_ID": 6155,
+		"USER_ID": 4029,
+		"ITEM_ID": 8134,
+		"ITEM_COST": 270.34
+	},
+	{
+		"LISTING_ID": 6156,
+		"USER_ID": 4408,
+		"ITEM_ID": 8070,
+		"ITEM_COST": 69.64
+	},
+	{
+		"LISTING_ID": 6157,
+		"USER_ID": 4023,
+		"ITEM_ID": 8482,
+		"ITEM_COST": 61.71
+	},
+	{
+		"LISTING_ID": 6158,
+		"USER_ID": 4312,
+		"ITEM_ID": 8145,
+		"ITEM_COST": 137.53
+	},
+	{
+		"LISTING_ID": 6159,
+		"USER_ID": 4094,
+		"ITEM_ID": 8490,
+		"ITEM_COST": 26.17
+	},
+	{
+		"LISTING_ID": 6160,
+		"USER_ID": 4330,
+		"ITEM_ID": 8150,
+		"ITEM_COST": 210.95
+	},
+	{
+		"LISTING_ID": 6161,
+		"USER_ID": 4440,
+		"ITEM_ID": 8404,
+		"ITEM_COST": 225.72
+	},
+	{
+		"LISTING_ID": 6162,
+		"USER_ID": 4324,
+		"ITEM_ID": 8128,
+		"ITEM_COST": 219.71
+	},
+	{
+		"LISTING_ID": 6163,
+		"USER_ID": 4202,
+		"ITEM_ID": 8442,
+		"ITEM_COST": 163.11
+	},
+	{
+		"LISTING_ID": 6164,
+		"USER_ID": 4423,
+		"ITEM_ID": 8368,
+		"ITEM_COST": 252.74
+	},
+	{
+		"LISTING_ID": 6165,
+		"USER_ID": 4024,
+		"ITEM_ID": 8273,
+		"ITEM_COST": 227.23
+	},
+	{
+		"LISTING_ID": 6166,
+		"USER_ID": 4440,
+		"ITEM_ID": 8411,
+		"ITEM_COST": 206.86
+	},
+	{
+		"LISTING_ID": 6167,
+		"USER_ID": 4474,
+		"ITEM_ID": 8378,
+		"ITEM_COST": 111.87
+	},
+	{
+		"LISTING_ID": 6168,
+		"USER_ID": 4329,
+		"ITEM_ID": 8444,
+		"ITEM_COST": 135.65
+	},
+	{
+		"LISTING_ID": 6169,
+		"USER_ID": 4160,
+		"ITEM_ID": 8032,
+		"ITEM_COST": 164.86
+	},
+	{
+		"LISTING_ID": 6170,
+		"USER_ID": 4281,
+		"ITEM_ID": 8387,
+		"ITEM_COST": 45.62
+	},
+	{
+		"LISTING_ID": 6171,
+		"USER_ID": 4191,
+		"ITEM_ID": 8117,
+		"ITEM_COST": 164.44
+	},
+	{
+		"LISTING_ID": 6172,
+		"USER_ID": 4314,
+		"ITEM_ID": 8346,
+		"ITEM_COST": 166.41
+	},
+	{
+		"LISTING_ID": 6173,
+		"USER_ID": 4253,
+		"ITEM_ID": 8309,
+		"ITEM_COST": 274.74
+	},
+	{
+		"LISTING_ID": 6174,
+		"USER_ID": 4168,
+		"ITEM_ID": 8311,
+		"ITEM_COST": 71.93
+	},
+	{
+		"LISTING_ID": 6175,
+		"USER_ID": 4004,
+		"ITEM_ID": 8301,
+		"ITEM_COST": 32.19
+	},
+	{
+		"LISTING_ID": 6176,
+		"USER_ID": 4334,
+		"ITEM_ID": 8325,
+		"ITEM_COST": 222.35
+	},
+	{
+		"LISTING_ID": 6177,
+		"USER_ID": 4326,
+		"ITEM_ID": 8335,
+		"ITEM_COST": 127.91
+	},
+	{
+		"LISTING_ID": 6178,
+		"USER_ID": 4259,
+		"ITEM_ID": 8339,
+		"ITEM_COST": 226.10
+	},
+	{
+		"LISTING_ID": 6179,
+		"USER_ID": 4424,
+		"ITEM_ID": 8456,
+		"ITEM_COST": 63.62
+	},
+	{
+		"LISTING_ID": 6180,
+		"USER_ID": 4382,
+		"ITEM_ID": 8358,
+		"ITEM_COST": 65.83
+	},
+	{
+		"LISTING_ID": 6181,
+		"USER_ID": 4327,
+		"ITEM_ID": 8177,
+		"ITEM_COST": 67.71
+	},
+	{
+		"LISTING_ID": 6182,
+		"USER_ID": 4049,
+		"ITEM_ID": 8228,
+		"ITEM_COST": 15.79
+	},
+	{
+		"LISTING_ID": 6183,
+		"USER_ID": 4211,
+		"ITEM_ID": 8124,
+		"ITEM_COST": 76.87
+	},
+	{
+		"LISTING_ID": 6184,
+		"USER_ID": 4467,
+		"ITEM_ID": 8199,
+		"ITEM_COST": 11.80
+	},
+	{
+		"LISTING_ID": 6185,
+		"USER_ID": 4436,
+		"ITEM_ID": 8470,
+		"ITEM_COST": 133.82
+	},
+	{
+		"LISTING_ID": 6186,
+		"USER_ID": 4423,
+		"ITEM_ID": 8080,
+		"ITEM_COST": 70.78
+	},
+	{
+		"LISTING_ID": 6187,
+		"USER_ID": 4313,
+		"ITEM_ID": 8096,
+		"ITEM_COST": 141.37
+	},
+	{
+		"LISTING_ID": 6188,
+		"USER_ID": 4408,
+		"ITEM_ID": 8285,
+		"ITEM_COST": 28.89
+	},
+	{
+		"LISTING_ID": 6189,
+		"USER_ID": 4415,
+		"ITEM_ID": 8231,
+		"ITEM_COST": 284.99
+	},
+	{
+		"LISTING_ID": 6190,
+		"USER_ID": 4363,
+		"ITEM_ID": 8322,
+		"ITEM_COST": 93.48
+	},
+	{
+		"LISTING_ID": 6191,
+		"USER_ID": 4394,
+		"ITEM_ID": 8253,
+		"ITEM_COST": 262.23
+	},
+	{
+		"LISTING_ID": 6192,
+		"USER_ID": 4168,
+		"ITEM_ID": 8168,
+		"ITEM_COST": 31.07
+	},
+	{
+		"LISTING_ID": 6193,
+		"USER_ID": 4462,
+		"ITEM_ID": 8060,
+		"ITEM_COST": 175.95
+	},
+	{
+		"LISTING_ID": 6194,
+		"USER_ID": 4273,
+		"ITEM_ID": 8279,
+		"ITEM_COST": 133.04
+	},
+	{
+		"LISTING_ID": 6195,
+		"USER_ID": 4391,
+		"ITEM_ID": 8282,
+		"ITEM_COST": 56.34
+	},
+	{
+		"LISTING_ID": 6196,
+		"USER_ID": 4150,
+		"ITEM_ID": 8315,
+		"ITEM_COST": 178.25
+	},
+	{
+		"LISTING_ID": 6197,
+		"USER_ID": 4014,
+		"ITEM_ID": 8426,
+		"ITEM_COST": 14.11
+	},
+	{
+		"LISTING_ID": 6198,
+		"USER_ID": 4115,
+		"ITEM_ID": 8250,
+		"ITEM_COST": 151.47
+	},
+	{
+		"LISTING_ID": 6199,
+		"USER_ID": 4203,
+		"ITEM_ID": 8134,
+		"ITEM_COST": 282.98
+	},
+	{
+		"LISTING_ID": 6200,
+		"USER_ID": 4416,
+		"ITEM_ID": 8443,
+		"ITEM_COST": 47.91
+	},
+	{
+		"LISTING_ID": 6201,
+		"USER_ID": 4115,
+		"ITEM_ID": 8291,
+		"ITEM_COST": 151.79
+	},
+	{
+		"LISTING_ID": 6202,
+		"USER_ID": 4104,
+		"ITEM_ID": 8004,
+		"ITEM_COST": 212.75
+	},
+	{
+		"LISTING_ID": 6203,
+		"USER_ID": 4487,
+		"ITEM_ID": 8418,
+		"ITEM_COST": 36.98
+	},
+	{
+		"LISTING_ID": 6204,
+		"USER_ID": 4452,
+		"ITEM_ID": 8344,
+		"ITEM_COST": 26.53
+	},
+	{
+		"LISTING_ID": 6205,
+		"USER_ID": 4428,
+		"ITEM_ID": 8372,
+		"ITEM_COST": 204.15
+	},
+	{
+		"LISTING_ID": 6206,
+		"USER_ID": 4145,
+		"ITEM_ID": 8270,
+		"ITEM_COST": 115.21
+	},
+	{
+		"LISTING_ID": 6207,
+		"USER_ID": 4024,
+		"ITEM_ID": 8440,
+		"ITEM_COST": 264.76
+	},
+	{
+		"LISTING_ID": 6208,
+		"USER_ID": 4292,
+		"ITEM_ID": 8141,
+		"ITEM_COST": 54.75
+	},
+	{
+		"LISTING_ID": 6209,
+		"USER_ID": 4108,
+		"ITEM_ID": 8313,
+		"ITEM_COST": 262.15
+	},
+	{
+		"LISTING_ID": 6210,
+		"USER_ID": 4324,
+		"ITEM_ID": 8290,
+		"ITEM_COST": 91.20
+	},
+	{
+		"LISTING_ID": 6211,
+		"USER_ID": 4451,
+		"ITEM_ID": 8164,
+		"ITEM_COST": 123.17
+	},
+	{
+		"LISTING_ID": 6212,
+		"USER_ID": 4210,
+		"ITEM_ID": 8150,
+		"ITEM_COST": 99.53
+	},
+	{
+		"LISTING_ID": 6213,
+		"USER_ID": 4375,
+		"ITEM_ID": 8124,
+		"ITEM_COST": 54.64
+	},
+	{
+		"LISTING_ID": 6214,
+		"USER_ID": 4436,
+		"ITEM_ID": 8442,
+		"ITEM_COST": 238.27
+	},
+	{
+		"LISTING_ID": 6215,
+		"USER_ID": 4090,
+		"ITEM_ID": 8453,
+		"ITEM_COST": 236.63
+	},
+	{
+		"LISTING_ID": 6216,
+		"USER_ID": 4085,
+		"ITEM_ID": 8404,
+		"ITEM_COST": 240.88
+	},
+	{
+		"LISTING_ID": 6217,
+		"USER_ID": 4426,
+		"ITEM_ID": 8120,
+		"ITEM_COST": 12.03
+	},
+	{
+		"LISTING_ID": 6218,
+		"USER_ID": 4380,
+		"ITEM_ID": 8322,
+		"ITEM_COST": 181.72
+	},
+	{
+		"LISTING_ID": 6219,
+		"USER_ID": 4243,
+		"ITEM_ID": 8200,
+		"ITEM_COST": 63.12
+	},
+	{
+		"LISTING_ID": 6220,
+		"USER_ID": 4361,
+		"ITEM_ID": 8488,
+		"ITEM_COST": 263.49
+	},
+	{
+		"LISTING_ID": 6221,
+		"USER_ID": 4006,
+		"ITEM_ID": 8466,
+		"ITEM_COST": 251.47
+	},
+	{
+		"LISTING_ID": 6222,
+		"USER_ID": 4480,
+		"ITEM_ID": 8156,
+		"ITEM_COST": 46.90
+	},
+	{
+		"LISTING_ID": 6223,
+		"USER_ID": 4202,
+		"ITEM_ID": 8447,
+		"ITEM_COST": 74.45
+	},
+	{
+		"LISTING_ID": 6224,
+		"USER_ID": 4006,
+		"ITEM_ID": 8077,
+		"ITEM_COST": 169.07
+	},
+	{
+		"LISTING_ID": 6225,
+		"USER_ID": 4486,
+		"ITEM_ID": 8071,
+		"ITEM_COST": 22.29
+	},
+	{
+		"LISTING_ID": 6226,
+		"USER_ID": 4372,
+		"ITEM_ID": 8157,
+		"ITEM_COST": 27.79
+	},
+	{
+		"LISTING_ID": 6227,
+		"USER_ID": 4206,
+		"ITEM_ID": 8205,
+		"ITEM_COST": 25.89
+	},
+	{
+		"LISTING_ID": 6228,
+		"USER_ID": 4380,
+		"ITEM_ID": 8477,
+		"ITEM_COST": 28.39
+	},
+	{
+		"LISTING_ID": 6229,
+		"USER_ID": 4084,
+		"ITEM_ID": 8388,
+		"ITEM_COST": 33.62
+	},
+	{
+		"LISTING_ID": 6230,
+		"USER_ID": 4312,
+		"ITEM_ID": 8373,
+		"ITEM_COST": 174.27
+	},
+	{
+		"LISTING_ID": 6231,
+		"USER_ID": 4182,
+		"ITEM_ID": 8065,
+		"ITEM_COST": 167.30
+	},
+	{
+		"LISTING_ID": 6232,
+		"USER_ID": 4116,
+		"ITEM_ID": 8489,
+		"ITEM_COST": 61.97
+	},
+	{
+		"LISTING_ID": 6233,
+		"USER_ID": 4243,
+		"ITEM_ID": 8161,
+		"ITEM_COST": 297.44
+	},
+	{
+		"LISTING_ID": 6234,
+		"USER_ID": 4408,
+		"ITEM_ID": 8463,
+		"ITEM_COST": 246.61
+	},
+	{
+		"LISTING_ID": 6235,
+		"USER_ID": 4021,
+		"ITEM_ID": 8335,
+		"ITEM_COST": 272.08
+	},
+	{
+		"LISTING_ID": 6236,
+		"USER_ID": 4354,
+		"ITEM_ID": 8389,
+		"ITEM_COST": 102.92
+	},
+	{
+		"LISTING_ID": 6237,
+		"USER_ID": 4010,
+		"ITEM_ID": 8089,
+		"ITEM_COST": 194.97
+	},
+	{
+		"LISTING_ID": 6238,
+		"USER_ID": 4104,
+		"ITEM_ID": 8241,
+		"ITEM_COST": 152.60
+	},
+	{
+		"LISTING_ID": 6239,
+		"USER_ID": 4447,
+		"ITEM_ID": 8272,
+		"ITEM_COST": 98.88
+	},
+	{
+		"LISTING_ID": 6240,
+		"USER_ID": 4243,
+		"ITEM_ID": 8414,
+		"ITEM_COST": 166.15
+	},
+	{
+		"LISTING_ID": 6241,
+		"USER_ID": 4337,
+		"ITEM_ID": 8051,
+		"ITEM_COST": 265.28
+	},
+	{
+		"LISTING_ID": 6242,
+		"USER_ID": 4495,
+		"ITEM_ID": 8469,
+		"ITEM_COST": 279.13
+	},
+	{
+		"LISTING_ID": 6243,
+		"USER_ID": 4391,
+		"ITEM_ID": 8235,
+		"ITEM_COST": 90.22
+	},
+	{
+		"LISTING_ID": 6244,
+		"USER_ID": 4140,
+		"ITEM_ID": 8037,
+		"ITEM_COST": 187.83
+	},
+	{
+		"LISTING_ID": 6245,
+		"USER_ID": 4236,
+		"ITEM_ID": 8047,
+		"ITEM_COST": 85.70
+	},
+	{
+		"LISTING_ID": 6246,
+		"USER_ID": 4047,
+		"ITEM_ID": 8347,
+		"ITEM_COST": 266.68
+	},
+	{
+		"LISTING_ID": 6247,
+		"USER_ID": 4248,
+		"ITEM_ID": 8461,
+		"ITEM_COST": 131.03
+	},
+	{
+		"LISTING_ID": 6248,
+		"USER_ID": 4474,
+		"ITEM_ID": 8307,
+		"ITEM_COST": 151.51
+	},
+	{
+		"LISTING_ID": 6249,
+		"USER_ID": 4147,
+		"ITEM_ID": 8093,
+		"ITEM_COST": 201.46
+	},
+	{
+		"LISTING_ID": 6250,
+		"USER_ID": 4124,
+		"ITEM_ID": 8427,
+		"ITEM_COST": 174.62
+	},
+	{
+		"LISTING_ID": 6251,
+		"USER_ID": 4256,
+		"ITEM_ID": 8013,
+		"ITEM_COST": 33.91
+	},
+	{
+		"LISTING_ID": 6252,
+		"USER_ID": 4053,
+		"ITEM_ID": 8097,
+		"ITEM_COST": 156.94
+	},
+	{
+		"LISTING_ID": 6253,
+		"USER_ID": 4397,
+		"ITEM_ID": 8196,
+		"ITEM_COST": 74.59
+	},
+	{
+		"LISTING_ID": 6254,
+		"USER_ID": 4344,
+		"ITEM_ID": 8037,
+		"ITEM_COST": 65.88
+	},
+	{
+		"LISTING_ID": 6255,
+		"USER_ID": 4207,
+		"ITEM_ID": 8177,
+		"ITEM_COST": 72.10
+	},
+	{
+		"LISTING_ID": 6256,
+		"USER_ID": 4199,
+		"ITEM_ID": 8210,
+		"ITEM_COST": 265.77
+	},
+	{
+		"LISTING_ID": 6257,
+		"USER_ID": 4481,
+		"ITEM_ID": 8187,
+		"ITEM_COST": 268.72
+	},
+	{
+		"LISTING_ID": 6258,
+		"USER_ID": 4264,
+		"ITEM_ID": 8205,
+		"ITEM_COST": 49.69
+	},
+	{
+		"LISTING_ID": 6259,
+		"USER_ID": 4485,
+		"ITEM_ID": 8051,
+		"ITEM_COST": 275.17
+	},
+	{
+		"LISTING_ID": 6260,
+		"USER_ID": 4147,
+		"ITEM_ID": 8192,
+		"ITEM_COST": 56.14
+	},
+	{
+		"LISTING_ID": 6261,
+		"USER_ID": 4437,
+		"ITEM_ID": 8195,
+		"ITEM_COST": 269.58
+	},
+	{
+		"LISTING_ID": 6262,
+		"USER_ID": 4147,
+		"ITEM_ID": 8444,
+		"ITEM_COST": 223.23
+	},
+	{
+		"LISTING_ID": 6263,
+		"USER_ID": 4271,
+		"ITEM_ID": 8138,
+		"ITEM_COST": 113.00
+	},
+	{
+		"LISTING_ID": 6264,
+		"USER_ID": 4141,
+		"ITEM_ID": 8177,
+		"ITEM_COST": 237.56
+	},
+	{
+		"LISTING_ID": 6265,
+		"USER_ID": 4342,
+		"ITEM_ID": 8289,
+		"ITEM_COST": 63.85
+	},
+	{
+		"LISTING_ID": 6266,
+		"USER_ID": 4397,
+		"ITEM_ID": 8465,
+		"ITEM_COST": 274.36
+	},
+	{
+		"LISTING_ID": 6267,
+		"USER_ID": 4062,
+		"ITEM_ID": 8455,
+		"ITEM_COST": 129.64
+	},
+	{
+		"LISTING_ID": 6268,
+		"USER_ID": 4176,
+		"ITEM_ID": 8047,
+		"ITEM_COST": 253.21
+	},
+	{
+		"LISTING_ID": 6269,
+		"USER_ID": 4040,
+		"ITEM_ID": 8450,
+		"ITEM_COST": 27.99
+	},
+	{
+		"LISTING_ID": 6270,
+		"USER_ID": 4210,
+		"ITEM_ID": 8354,
+		"ITEM_COST": 33.93
+	},
+	{
+		"LISTING_ID": 6271,
+		"USER_ID": 4072,
+		"ITEM_ID": 8011,
+		"ITEM_COST": 262.79
+	},
+	{
+		"LISTING_ID": 6272,
+		"USER_ID": 4020,
+		"ITEM_ID": 8015,
+		"ITEM_COST": 40.25
+	},
+	{
+		"LISTING_ID": 6273,
+		"USER_ID": 4331,
+		"ITEM_ID": 8492,
+		"ITEM_COST": 198.50
+	},
+	{
+		"LISTING_ID": 6274,
+		"USER_ID": 4043,
+		"ITEM_ID": 8100,
+		"ITEM_COST": 150.09
+	},
+	{
+		"LISTING_ID": 6275,
+		"USER_ID": 4455,
+		"ITEM_ID": 8423,
+		"ITEM_COST": 144.99
+	},
+	{
+		"LISTING_ID": 6276,
+		"USER_ID": 4103,
+		"ITEM_ID": 8061,
+		"ITEM_COST": 34.42
+	},
+	{
+		"LISTING_ID": 6277,
+		"USER_ID": 4381,
+		"ITEM_ID": 8001,
+		"ITEM_COST": 220.42
+	},
+	{
+		"LISTING_ID": 6278,
+		"USER_ID": 4312,
+		"ITEM_ID": 8015,
+		"ITEM_COST": 215.93
+	},
+	{
+		"LISTING_ID": 6279,
+		"USER_ID": 4131,
+		"ITEM_ID": 8422,
+		"ITEM_COST": 89.12
+	},
+	{
+		"LISTING_ID": 6280,
+		"USER_ID": 4065,
+		"ITEM_ID": 8455,
+		"ITEM_COST": 198.65
+	},
+	{
+		"LISTING_ID": 6281,
+		"USER_ID": 4285,
+		"ITEM_ID": 8444,
+		"ITEM_COST": 33.54
+	},
+	{
+		"LISTING_ID": 6282,
+		"USER_ID": 4431,
+		"ITEM_ID": 8014,
+		"ITEM_COST": 88.04
+	},
+	{
+		"LISTING_ID": 6283,
+		"USER_ID": 4285,
+		"ITEM_ID": 8239,
+		"ITEM_COST": 288.54
+	},
+	{
+		"LISTING_ID": 6284,
+		"USER_ID": 4345,
+		"ITEM_ID": 8031,
+		"ITEM_COST": 170.50
+	},
+	{
+		"LISTING_ID": 6285,
+		"USER_ID": 4279,
+		"ITEM_ID": 8431,
+		"ITEM_COST": 79.24
+	},
+	{
+		"LISTING_ID": 6286,
+		"USER_ID": 4465,
+		"ITEM_ID": 8203,
+		"ITEM_COST": 217.23
+	},
+	{
+		"LISTING_ID": 6287,
+		"USER_ID": 4321,
+		"ITEM_ID": 8190,
+		"ITEM_COST": 123.20
+	},
+	{
+		"LISTING_ID": 6288,
+		"USER_ID": 4349,
+		"ITEM_ID": 8035,
+		"ITEM_COST": 199.32
+	},
+	{
+		"LISTING_ID": 6289,
+		"USER_ID": 4408,
+		"ITEM_ID": 8203,
+		"ITEM_COST": 34.39
+	},
+	{
+		"LISTING_ID": 6290,
+		"USER_ID": 4150,
+		"ITEM_ID": 8390,
+		"ITEM_COST": 137.97
+	},
+	{
+		"LISTING_ID": 6291,
+		"USER_ID": 4412,
+		"ITEM_ID": 8373,
+		"ITEM_COST": 167.01
+	},
+	{
+		"LISTING_ID": 6292,
+		"USER_ID": 4302,
+		"ITEM_ID": 8324,
+		"ITEM_COST": 200.49
+	},
+	{
+		"LISTING_ID": 6293,
+		"USER_ID": 4347,
+		"ITEM_ID": 8430,
+		"ITEM_COST": 192.27
+	},
+	{
+		"LISTING_ID": 6294,
+		"USER_ID": 4044,
+		"ITEM_ID": 8016,
+		"ITEM_COST": 26.53
+	},
+	{
+		"LISTING_ID": 6295,
+		"USER_ID": 4362,
+		"ITEM_ID": 8255,
+		"ITEM_COST": 146.83
+	},
+	{
+		"LISTING_ID": 6296,
+		"USER_ID": 4357,
+		"ITEM_ID": 8495,
+		"ITEM_COST": 250.07
+	},
+	{
+		"LISTING_ID": 6297,
+		"USER_ID": 4114,
+		"ITEM_ID": 8113,
+		"ITEM_COST": 66.12
+	},
+	{
+		"LISTING_ID": 6298,
+		"USER_ID": 4441,
+		"ITEM_ID": 8122,
+		"ITEM_COST": 194.97
+	},
+	{
+		"LISTING_ID": 6299,
+		"USER_ID": 4337,
+		"ITEM_ID": 8234,
+		"ITEM_COST": 225.13
+	},
+	{
+		"LISTING_ID": 6300,
+		"USER_ID": 4210,
+		"ITEM_ID": 8276,
+		"ITEM_COST": 289.90
+	},
+	{
+		"LISTING_ID": 6301,
+		"USER_ID": 4230,
+		"ITEM_ID": 8432,
+		"ITEM_COST": 52.63
+	},
+	{
+		"LISTING_ID": 6302,
+		"USER_ID": 4366,
+		"ITEM_ID": 8150,
+		"ITEM_COST": 285.16
+	},
+	{
+		"LISTING_ID": 6303,
+		"USER_ID": 4154,
+		"ITEM_ID": 8398,
+		"ITEM_COST": 185.81
+	},
+	{
+		"LISTING_ID": 6304,
+		"USER_ID": 4103,
+		"ITEM_ID": 8456,
+		"ITEM_COST": 231.56
+	},
+	{
+		"LISTING_ID": 6305,
+		"USER_ID": 4339,
+		"ITEM_ID": 8464,
+		"ITEM_COST": 262.14
+	},
+	{
+		"LISTING_ID": 6306,
+		"USER_ID": 4431,
+		"ITEM_ID": 8369,
+		"ITEM_COST": 163.99
+	},
+	{
+		"LISTING_ID": 6307,
+		"USER_ID": 4037,
+		"ITEM_ID": 8004,
+		"ITEM_COST": 138.74
+	},
+	{
+		"LISTING_ID": 6308,
+		"USER_ID": 4499,
+		"ITEM_ID": 8093,
+		"ITEM_COST": 91.81
+	},
+	{
+		"LISTING_ID": 6309,
+		"USER_ID": 4104,
+		"ITEM_ID": 8344,
+		"ITEM_COST": 91.38
+	},
+	{
+		"LISTING_ID": 6310,
+		"USER_ID": 4283,
+		"ITEM_ID": 8270,
+		"ITEM_COST": 253.29
+	},
+	{
+		"LISTING_ID": 6311,
+		"USER_ID": 4144,
+		"ITEM_ID": 8421,
+		"ITEM_COST": 214.58
+	},
+	{
+		"LISTING_ID": 6312,
+		"USER_ID": 4258,
+		"ITEM_ID": 8232,
+		"ITEM_COST": 92.02
+	},
+	{
+		"LISTING_ID": 6313,
+		"USER_ID": 4215,
+		"ITEM_ID": 8426,
+		"ITEM_COST": 154.35
+	},
+	{
+		"LISTING_ID": 6314,
+		"USER_ID": 4220,
+		"ITEM_ID": 8311,
+		"ITEM_COST": 57.48
+	},
+	{
+		"LISTING_ID": 6315,
+		"USER_ID": 4424,
+		"ITEM_ID": 8080,
+		"ITEM_COST": 283.14
+	},
+	{
+		"LISTING_ID": 6316,
+		"USER_ID": 4129,
+		"ITEM_ID": 8468,
+		"ITEM_COST": 264.53
+	},
+	{
+		"LISTING_ID": 6317,
+		"USER_ID": 4403,
+		"ITEM_ID": 8243,
+		"ITEM_COST": 41.21
+	},
+	{
+		"LISTING_ID": 6318,
+		"USER_ID": 4266,
+		"ITEM_ID": 8392,
+		"ITEM_COST": 208.87
+	},
+	{
+		"LISTING_ID": 6319,
+		"USER_ID": 4140,
+		"ITEM_ID": 8363,
+		"ITEM_COST": 70.78
+	},
+	{
+		"LISTING_ID": 6320,
+		"USER_ID": 4119,
+		"ITEM_ID": 8138,
+		"ITEM_COST": 36.32
+	},
+	{
+		"LISTING_ID": 6321,
+		"USER_ID": 4290,
+		"ITEM_ID": 8397,
+		"ITEM_COST": 140.10
+	},
+	{
+		"LISTING_ID": 6322,
+		"USER_ID": 4454,
+		"ITEM_ID": 8479,
+		"ITEM_COST": 114.81
+	},
+	{
+		"LISTING_ID": 6323,
+		"USER_ID": 4098,
+		"ITEM_ID": 8476,
+		"ITEM_COST": 251.71
+	},
+	{
+		"LISTING_ID": 6324,
+		"USER_ID": 4369,
+		"ITEM_ID": 8446,
+		"ITEM_COST": 234.52
+	},
+	{
+		"LISTING_ID": 6325,
+		"USER_ID": 4110,
+		"ITEM_ID": 8370,
+		"ITEM_COST": 192.68
+	},
+	{
+		"LISTING_ID": 6326,
+		"USER_ID": 4392,
+		"ITEM_ID": 8153,
+		"ITEM_COST": 246.45
+	},
+	{
+		"LISTING_ID": 6327,
+		"USER_ID": 4148,
+		"ITEM_ID": 8491,
+		"ITEM_COST": 59.20
+	},
+	{
+		"LISTING_ID": 6328,
+		"USER_ID": 4356,
+		"ITEM_ID": 8333,
+		"ITEM_COST": 227.18
+	},
+	{
+		"LISTING_ID": 6329,
+		"USER_ID": 4173,
+		"ITEM_ID": 8427,
+		"ITEM_COST": 166.51
+	},
+	{
+		"LISTING_ID": 6330,
+		"USER_ID": 4044,
+		"ITEM_ID": 8198,
+		"ITEM_COST": 36.40
+	},
+	{
+		"LISTING_ID": 6331,
+		"USER_ID": 4469,
+		"ITEM_ID": 8001,
+		"ITEM_COST": 103.52
+	},
+	{
+		"LISTING_ID": 6332,
+		"USER_ID": 4165,
+		"ITEM_ID": 8052,
+		"ITEM_COST": 291.27
+	},
+	{
+		"LISTING_ID": 6333,
+		"USER_ID": 4205,
+		"ITEM_ID": 8131,
+		"ITEM_COST": 147.23
+	},
+	{
+		"LISTING_ID": 6334,
+		"USER_ID": 4456,
+		"ITEM_ID": 8222,
+		"ITEM_COST": 246.13
+	},
+	{
+		"LISTING_ID": 6335,
+		"USER_ID": 4442,
+		"ITEM_ID": 8495,
+		"ITEM_COST": 227.58
+	},
+	{
+		"LISTING_ID": 6336,
+		"USER_ID": 4223,
+		"ITEM_ID": 8328,
+		"ITEM_COST": 161.41
+	},
+	{
+		"LISTING_ID": 6337,
+		"USER_ID": 4071,
+		"ITEM_ID": 8274,
+		"ITEM_COST": 146.09
+	},
+	{
+		"LISTING_ID": 6338,
+		"USER_ID": 4474,
+		"ITEM_ID": 8040,
+		"ITEM_COST": 180.82
+	},
+	{
+		"LISTING_ID": 6339,
+		"USER_ID": 4009,
+		"ITEM_ID": 8035,
+		"ITEM_COST": 130.00
+	},
+	{
+		"LISTING_ID": 6340,
+		"USER_ID": 4068,
+		"ITEM_ID": 8348,
+		"ITEM_COST": 181.72
+	},
+	{
+		"LISTING_ID": 6341,
+		"USER_ID": 4194,
+		"ITEM_ID": 8332,
+		"ITEM_COST": 269.07
+	},
+	{
+		"LISTING_ID": 6342,
+		"USER_ID": 4135,
+		"ITEM_ID": 8333,
+		"ITEM_COST": 151.76
+	},
+	{
+		"LISTING_ID": 6343,
+		"USER_ID": 4374,
+		"ITEM_ID": 8079,
+		"ITEM_COST": 219.06
+	},
+	{
+		"LISTING_ID": 6344,
+		"USER_ID": 4356,
+		"ITEM_ID": 8051,
+		"ITEM_COST": 91.39
+	},
+	{
+		"LISTING_ID": 6345,
+		"USER_ID": 4391,
+		"ITEM_ID": 8131,
+		"ITEM_COST": 208.49
+	},
+	{
+		"LISTING_ID": 6346,
+		"USER_ID": 4333,
+		"ITEM_ID": 8260,
+		"ITEM_COST": 187.38
+	},
+	{
+		"LISTING_ID": 6347,
+		"USER_ID": 4249,
+		"ITEM_ID": 8371,
+		"ITEM_COST": 25.30
+	},
+	{
+		"LISTING_ID": 6348,
+		"USER_ID": 4069,
+		"ITEM_ID": 8461,
+		"ITEM_COST": 241.23
+	},
+	{
+		"LISTING_ID": 6349,
+		"USER_ID": 4246,
+		"ITEM_ID": 8487,
+		"ITEM_COST": 46.53
+	},
+	{
+		"LISTING_ID": 6350,
+		"USER_ID": 4347,
+		"ITEM_ID": 8163,
+		"ITEM_COST": 90.20
+	},
+	{
+		"LISTING_ID": 6351,
+		"USER_ID": 4342,
+		"ITEM_ID": 8008,
+		"ITEM_COST": 253.09
+	},
+	{
+		"LISTING_ID": 6352,
+		"USER_ID": 4007,
+		"ITEM_ID": 8493,
+		"ITEM_COST": 141.74
+	},
+	{
+		"LISTING_ID": 6353,
+		"USER_ID": 4476,
+		"ITEM_ID": 8033,
+		"ITEM_COST": 273.35
+	},
+	{
+		"LISTING_ID": 6354,
+		"USER_ID": 4354,
+		"ITEM_ID": 8438,
+		"ITEM_COST": 94.39
+	},
+	{
+		"LISTING_ID": 6355,
+		"USER_ID": 4466,
+		"ITEM_ID": 8289,
+		"ITEM_COST": 172.81
+	},
+	{
+		"LISTING_ID": 6356,
+		"USER_ID": 4164,
+		"ITEM_ID": 8223,
+		"ITEM_COST": 170.09
+	},
+	{
+		"LISTING_ID": 6357,
+		"USER_ID": 4186,
+		"ITEM_ID": 8472,
+		"ITEM_COST": 122.92
+	},
+	{
+		"LISTING_ID": 6358,
+		"USER_ID": 4088,
+		"ITEM_ID": 8395,
+		"ITEM_COST": 209.57
+	},
+	{
+		"LISTING_ID": 6359,
+		"USER_ID": 4453,
+		"ITEM_ID": 8283,
+		"ITEM_COST": 81.95
+	},
+	{
+		"LISTING_ID": 6360,
+		"USER_ID": 4035,
+		"ITEM_ID": 8417,
+		"ITEM_COST": 65.65
+	},
+	{
+		"LISTING_ID": 6361,
+		"USER_ID": 4198,
+		"ITEM_ID": 8376,
+		"ITEM_COST": 170.33
+	},
+	{
+		"LISTING_ID": 6362,
+		"USER_ID": 4460,
+		"ITEM_ID": 8223,
+		"ITEM_COST": 280.22
+	},
+	{
+		"LISTING_ID": 6363,
+		"USER_ID": 4018,
+		"ITEM_ID": 8213,
+		"ITEM_COST": 65.75
+	},
+	{
+		"LISTING_ID": 6364,
+		"USER_ID": 4083,
+		"ITEM_ID": 8184,
+		"ITEM_COST": 299.01
+	},
+	{
+		"LISTING_ID": 6365,
+		"USER_ID": 4132,
+		"ITEM_ID": 8005,
+		"ITEM_COST": 281.09
+	},
+	{
+		"LISTING_ID": 6366,
+		"USER_ID": 4190,
+		"ITEM_ID": 8219,
+		"ITEM_COST": 292.68
+	},
+	{
+		"LISTING_ID": 6367,
+		"USER_ID": 4355,
+		"ITEM_ID": 8053,
+		"ITEM_COST": 105.96
+	},
+	{
+		"LISTING_ID": 6368,
+		"USER_ID": 4279,
+		"ITEM_ID": 8227,
+		"ITEM_COST": 286.85
+	},
+	{
+		"LISTING_ID": 6369,
+		"USER_ID": 4075,
+		"ITEM_ID": 8350,
+		"ITEM_COST": 147.95
+	},
+	{
+		"LISTING_ID": 6370,
+		"USER_ID": 4417,
+		"ITEM_ID": 8071,
+		"ITEM_COST": 130.18
+	},
+	{
+		"LISTING_ID": 6371,
+		"USER_ID": 4239,
+		"ITEM_ID": 8464,
+		"ITEM_COST": 291.26
+	},
+	{
+		"LISTING_ID": 6372,
+		"USER_ID": 4240,
+		"ITEM_ID": 8012,
+		"ITEM_COST": 105.80
+	},
+	{
+		"LISTING_ID": 6373,
+		"USER_ID": 4427,
+		"ITEM_ID": 8041,
+		"ITEM_COST": 292.60
+	},
+	{
+		"LISTING_ID": 6374,
+		"USER_ID": 4273,
+		"ITEM_ID": 8457,
+		"ITEM_COST": 296.79
+	},
+	{
+		"LISTING_ID": 6375,
+		"USER_ID": 4286,
+		"ITEM_ID": 8453,
+		"ITEM_COST": 299.50
+	},
+	{
+		"LISTING_ID": 6376,
+		"USER_ID": 4089,
+		"ITEM_ID": 8385,
+		"ITEM_COST": 235.52
+	},
+	{
+		"LISTING_ID": 6377,
+		"USER_ID": 4416,
+		"ITEM_ID": 8296,
+		"ITEM_COST": 124.91
+	},
+	{
+		"LISTING_ID": 6378,
+		"USER_ID": 4377,
+		"ITEM_ID": 8149,
+		"ITEM_COST": 253.83
+	},
+	{
+		"LISTING_ID": 6379,
+		"USER_ID": 4121,
+		"ITEM_ID": 8297,
+		"ITEM_COST": 175.66
+	},
+	{
+		"LISTING_ID": 6380,
+		"USER_ID": 4489,
+		"ITEM_ID": 8268,
+		"ITEM_COST": 143.34
+	},
+	{
+		"LISTING_ID": 6381,
+		"USER_ID": 4084,
+		"ITEM_ID": 8397,
+		"ITEM_COST": 209.56
+	},
+	{
+		"LISTING_ID": 6382,
+		"USER_ID": 4127,
+		"ITEM_ID": 8118,
+		"ITEM_COST": 77.28
+	},
+	{
+		"LISTING_ID": 6383,
+		"USER_ID": 4358,
+		"ITEM_ID": 8389,
+		"ITEM_COST": 177.90
+	},
+	{
+		"LISTING_ID": 6384,
+		"USER_ID": 4430,
+		"ITEM_ID": 8376,
+		"ITEM_COST": 235.19
+	},
+	{
+		"LISTING_ID": 6385,
+		"USER_ID": 4398,
+		"ITEM_ID": 8048,
+		"ITEM_COST": 203.71
+	},
+	{
+		"LISTING_ID": 6386,
+		"USER_ID": 4093,
+		"ITEM_ID": 8367,
+		"ITEM_COST": 77.88
+	},
+	{
+		"LISTING_ID": 6387,
+		"USER_ID": 4489,
+		"ITEM_ID": 8290,
+		"ITEM_COST": 138.69
+	},
+	{
+		"LISTING_ID": 6388,
+		"USER_ID": 4437,
+		"ITEM_ID": 8086,
+		"ITEM_COST": 31.79
+	},
+	{
+		"LISTING_ID": 6389,
+		"USER_ID": 4496,
+		"ITEM_ID": 8224,
+		"ITEM_COST": 90.93
+	},
+	{
+		"LISTING_ID": 6390,
+		"USER_ID": 4358,
+		"ITEM_ID": 8246,
+		"ITEM_COST": 170.80
+	},
+	{
+		"LISTING_ID": 6391,
+		"USER_ID": 4447,
+		"ITEM_ID": 8357,
+		"ITEM_COST": 280.91
+	},
+	{
+		"LISTING_ID": 6392,
+		"USER_ID": 4150,
+		"ITEM_ID": 8446,
+		"ITEM_COST": 205.43
+	},
+	{
+		"LISTING_ID": 6393,
+		"USER_ID": 4390,
+		"ITEM_ID": 8162,
+		"ITEM_COST": 245.00
+	},
+	{
+		"LISTING_ID": 6394,
+		"USER_ID": 4494,
+		"ITEM_ID": 8334,
+		"ITEM_COST": 198.00
+	},
+	{
+		"LISTING_ID": 6395,
+		"USER_ID": 4111,
+		"ITEM_ID": 8299,
+		"ITEM_COST": 291.77
+	},
+	{
+		"LISTING_ID": 6396,
+		"USER_ID": 4258,
+		"ITEM_ID": 8126,
+		"ITEM_COST": 189.30
+	},
+	{
+		"LISTING_ID": 6397,
+		"USER_ID": 4385,
+		"ITEM_ID": 8365,
+		"ITEM_COST": 77.39
+	},
+	{
+		"LISTING_ID": 6398,
+		"USER_ID": 4405,
+		"ITEM_ID": 8181,
+		"ITEM_COST": 228.17
+	},
+	{
+		"LISTING_ID": 6399,
+		"USER_ID": 4129,
+		"ITEM_ID": 8151,
+		"ITEM_COST": 158.64
+	},
+	{
+		"LISTING_ID": 6400,
+		"USER_ID": 4212,
+		"ITEM_ID": 8220,
+		"ITEM_COST": 265.93
+	},
+	{
+		"LISTING_ID": 6401,
+		"USER_ID": 4400,
+		"ITEM_ID": 8486,
+		"ITEM_COST": 107.38
+	},
+	{
+		"LISTING_ID": 6402,
+		"USER_ID": 4353,
+		"ITEM_ID": 8498,
+		"ITEM_COST": 206.58
+	},
+	{
+		"LISTING_ID": 6403,
+		"USER_ID": 4290,
+		"ITEM_ID": 8046,
+		"ITEM_COST": 221.93
+	},
+	{
+		"LISTING_ID": 6404,
+		"USER_ID": 4418,
+		"ITEM_ID": 8085,
+		"ITEM_COST": 197.55
+	},
+	{
+		"LISTING_ID": 6405,
+		"USER_ID": 4358,
+		"ITEM_ID": 8166,
+		"ITEM_COST": 203.47
+	},
+	{
+		"LISTING_ID": 6406,
+		"USER_ID": 4066,
+		"ITEM_ID": 8270,
+		"ITEM_COST": 285.20
+	},
+	{
+		"LISTING_ID": 6407,
+		"USER_ID": 4419,
+		"ITEM_ID": 8421,
+		"ITEM_COST": 299.70
+	},
+	{
+		"LISTING_ID": 6408,
+		"USER_ID": 4485,
+		"ITEM_ID": 8381,
+		"ITEM_COST": 122.30
+	},
+	{
+		"LISTING_ID": 6409,
+		"USER_ID": 4409,
+		"ITEM_ID": 8400,
+		"ITEM_COST": 294.95
+	},
+	{
+		"LISTING_ID": 6410,
+		"USER_ID": 4036,
+		"ITEM_ID": 8148,
+		"ITEM_COST": 88.84
+	},
+	{
+		"LISTING_ID": 6411,
+		"USER_ID": 4313,
+		"ITEM_ID": 8184,
+		"ITEM_COST": 175.62
+	},
+	{
+		"LISTING_ID": 6412,
+		"USER_ID": 4127,
+		"ITEM_ID": 8373,
+		"ITEM_COST": 269.15
+	},
+	{
+		"LISTING_ID": 6413,
+		"USER_ID": 4140,
+		"ITEM_ID": 8187,
+		"ITEM_COST": 105.34
+	},
+	{
+		"LISTING_ID": 6414,
+		"USER_ID": 4436,
+		"ITEM_ID": 8066,
+		"ITEM_COST": 256.19
+	},
+	{
+		"LISTING_ID": 6415,
+		"USER_ID": 4426,
+		"ITEM_ID": 8318,
+		"ITEM_COST": 174.18
+	},
+	{
+		"LISTING_ID": 6416,
+		"USER_ID": 4379,
+		"ITEM_ID": 8340,
+		"ITEM_COST": 87.92
+	},
+	{
+		"LISTING_ID": 6417,
+		"USER_ID": 4041,
+		"ITEM_ID": 8065,
+		"ITEM_COST": 139.40
+	},
+	{
+		"LISTING_ID": 6418,
+		"USER_ID": 4094,
+		"ITEM_ID": 8119,
+		"ITEM_COST": 110.01
+	},
+	{
+		"LISTING_ID": 6419,
+		"USER_ID": 4449,
+		"ITEM_ID": 8272,
+		"ITEM_COST": 96.83
+	},
+	{
+		"LISTING_ID": 6420,
+		"USER_ID": 4034,
+		"ITEM_ID": 8243,
+		"ITEM_COST": 38.45
+	},
+	{
+		"LISTING_ID": 6421,
+		"USER_ID": 4225,
+		"ITEM_ID": 8482,
+		"ITEM_COST": 86.77
+	},
+	{
+		"LISTING_ID": 6422,
+		"USER_ID": 4026,
+		"ITEM_ID": 8390,
+		"ITEM_COST": 128.80
+	},
+	{
+		"LISTING_ID": 6423,
+		"USER_ID": 4446,
+		"ITEM_ID": 8454,
+		"ITEM_COST": 31.60
+	},
+	{
+		"LISTING_ID": 6424,
+		"USER_ID": 4025,
+		"ITEM_ID": 8061,
+		"ITEM_COST": 221.99
+	},
+	{
+		"LISTING_ID": 6425,
+		"USER_ID": 4245,
+		"ITEM_ID": 8367,
+		"ITEM_COST": 100.56
+	},
+	{
+		"LISTING_ID": 6426,
+		"USER_ID": 4343,
+		"ITEM_ID": 8469,
+		"ITEM_COST": 176.13
+	},
+	{
+		"LISTING_ID": 6427,
+		"USER_ID": 4058,
+		"ITEM_ID": 8292,
+		"ITEM_COST": 184.22
+	},
+	{
+		"LISTING_ID": 6428,
+		"USER_ID": 4282,
+		"ITEM_ID": 8047,
+		"ITEM_COST": 234.83
+	},
+	{
+		"LISTING_ID": 6429,
+		"USER_ID": 4076,
+		"ITEM_ID": 8454,
+		"ITEM_COST": 293.55
+	},
+	{
+		"LISTING_ID": 6430,
+		"USER_ID": 4325,
+		"ITEM_ID": 8288,
+		"ITEM_COST": 39.51
+	},
+	{
+		"LISTING_ID": 6431,
+		"USER_ID": 4463,
+		"ITEM_ID": 8415,
+		"ITEM_COST": 38.32
+	},
+	{
+		"LISTING_ID": 6432,
+		"USER_ID": 4058,
+		"ITEM_ID": 8444,
+		"ITEM_COST": 157.59
+	},
+	{
+		"LISTING_ID": 6433,
+		"USER_ID": 4479,
+		"ITEM_ID": 8251,
+		"ITEM_COST": 223.56
+	},
+	{
+		"LISTING_ID": 6434,
+		"USER_ID": 4318,
+		"ITEM_ID": 8196,
+		"ITEM_COST": 219.71
+	},
+	{
+		"LISTING_ID": 6435,
+		"USER_ID": 4312,
+		"ITEM_ID": 8389,
+		"ITEM_COST": 105.34
+	},
+	{
+		"LISTING_ID": 6436,
+		"USER_ID": 4121,
+		"ITEM_ID": 8202,
+		"ITEM_COST": 101.33
+	},
+	{
+		"LISTING_ID": 6437,
+		"USER_ID": 4066,
+		"ITEM_ID": 8186,
+		"ITEM_COST": 119.74
+	},
+	{
+		"LISTING_ID": 6438,
+		"USER_ID": 4162,
+		"ITEM_ID": 8498,
+		"ITEM_COST": 202.41
+	},
+	{
+		"LISTING_ID": 6439,
+		"USER_ID": 4286,
+		"ITEM_ID": 8248,
+		"ITEM_COST": 294.89
+	},
+	{
+		"LISTING_ID": 6440,
+		"USER_ID": 4037,
+		"ITEM_ID": 8200,
+		"ITEM_COST": 122.39
+	},
+	{
+		"LISTING_ID": 6441,
+		"USER_ID": 4363,
+		"ITEM_ID": 8070,
+		"ITEM_COST": 32.49
+	},
+	{
+		"LISTING_ID": 6442,
+		"USER_ID": 4213,
+		"ITEM_ID": 8065,
+		"ITEM_COST": 263.10
+	},
+	{
+		"LISTING_ID": 6443,
+		"USER_ID": 4171,
+		"ITEM_ID": 8383,
+		"ITEM_COST": 281.46
+	},
+	{
+		"LISTING_ID": 6444,
+		"USER_ID": 4113,
+		"ITEM_ID": 8313,
+		"ITEM_COST": 265.79
+	},
+	{
+		"LISTING_ID": 6445,
+		"USER_ID": 4342,
+		"ITEM_ID": 8494,
+		"ITEM_COST": 97.71
+	},
+	{
+		"LISTING_ID": 6446,
+		"USER_ID": 4127,
+		"ITEM_ID": 8232,
+		"ITEM_COST": 233.56
+	},
+	{
+		"LISTING_ID": 6447,
+		"USER_ID": 4268,
+		"ITEM_ID": 8446,
+		"ITEM_COST": 273.55
+	},
+	{
+		"LISTING_ID": 6448,
+		"USER_ID": 4374,
+		"ITEM_ID": 8098,
+		"ITEM_COST": 232.00
+	},
+	{
+		"LISTING_ID": 6449,
+		"USER_ID": 4366,
+		"ITEM_ID": 8017,
+		"ITEM_COST": 36.85
+	},
+	{
+		"LISTING_ID": 6450,
+		"USER_ID": 4203,
+		"ITEM_ID": 8201,
+		"ITEM_COST": 136.78
+	},
+	{
+		"LISTING_ID": 6451,
+		"USER_ID": 4049,
+		"ITEM_ID": 8243,
+		"ITEM_COST": 242.89
+	},
+	{
+		"LISTING_ID": 6452,
+		"USER_ID": 4324,
+		"ITEM_ID": 8125,
+		"ITEM_COST": 133.37
+	},
+	{
+		"LISTING_ID": 6453,
+		"USER_ID": 4089,
+		"ITEM_ID": 8466,
+		"ITEM_COST": 41.91
+	},
+	{
+		"LISTING_ID": 6454,
+		"USER_ID": 4325,
+		"ITEM_ID": 8407,
+		"ITEM_COST": 72.10
+	},
+	{
+		"LISTING_ID": 6455,
+		"USER_ID": 4375,
+		"ITEM_ID": 8206,
+		"ITEM_COST": 190.79
+	},
+	{
+		"LISTING_ID": 6456,
+		"USER_ID": 4106,
+		"ITEM_ID": 8137,
+		"ITEM_COST": 283.56
+	},
+	{
+		"LISTING_ID": 6457,
+		"USER_ID": 4294,
+		"ITEM_ID": 8352,
+		"ITEM_COST": 65.90
+	},
+	{
+		"LISTING_ID": 6458,
+		"USER_ID": 4241,
+		"ITEM_ID": 8220,
+		"ITEM_COST": 96.67
+	},
+	{
+		"LISTING_ID": 6459,
+		"USER_ID": 4363,
+		"ITEM_ID": 8386,
+		"ITEM_COST": 207.27
+	},
+	{
+		"LISTING_ID": 6460,
+		"USER_ID": 4261,
+		"ITEM_ID": 8405,
+		"ITEM_COST": 7.02
+	},
+	{
+		"LISTING_ID": 6461,
+		"USER_ID": 4375,
+		"ITEM_ID": 8374,
+		"ITEM_COST": 122.61
+	},
+	{
+		"LISTING_ID": 6462,
+		"USER_ID": 4221,
+		"ITEM_ID": 8173,
+		"ITEM_COST": 62.93
+	},
+	{
+		"LISTING_ID": 6463,
+		"USER_ID": 4250,
+		"ITEM_ID": 8063,
+		"ITEM_COST": 215.85
+	},
+	{
+		"LISTING_ID": 6464,
+		"USER_ID": 4271,
+		"ITEM_ID": 8406,
+		"ITEM_COST": 238.17
+	},
+	{
+		"LISTING_ID": 6465,
+		"USER_ID": 4377,
+		"ITEM_ID": 8269,
+		"ITEM_COST": 242.14
+	},
+	{
+		"LISTING_ID": 6466,
+		"USER_ID": 4072,
+		"ITEM_ID": 8491,
+		"ITEM_COST": 41.05
+	},
+	{
+		"LISTING_ID": 6467,
+		"USER_ID": 4026,
+		"ITEM_ID": 8283,
+		"ITEM_COST": 81.24
+	},
+	{
+		"LISTING_ID": 6468,
+		"USER_ID": 4210,
+		"ITEM_ID": 8085,
+		"ITEM_COST": 241.24
+	},
+	{
+		"LISTING_ID": 6469,
+		"USER_ID": 4274,
+		"ITEM_ID": 8446,
+		"ITEM_COST": 201.64
+	},
+	{
+		"LISTING_ID": 6470,
+		"USER_ID": 4180,
+		"ITEM_ID": 8131,
+		"ITEM_COST": 106.83
+	},
+	{
+		"LISTING_ID": 6471,
+		"USER_ID": 4218,
+		"ITEM_ID": 8115,
+		"ITEM_COST": 111.47
+	},
+	{
+		"LISTING_ID": 6472,
+		"USER_ID": 4203,
+		"ITEM_ID": 8393,
+		"ITEM_COST": 255.83
+	},
+	{
+		"LISTING_ID": 6473,
+		"USER_ID": 4285,
+		"ITEM_ID": 8331,
+		"ITEM_COST": 91.38
+	},
+	{
+		"LISTING_ID": 6474,
+		"USER_ID": 4480,
+		"ITEM_ID": 8333,
+		"ITEM_COST": 111.80
+	},
+	{
+		"LISTING_ID": 6475,
+		"USER_ID": 4138,
+		"ITEM_ID": 8059,
+		"ITEM_COST": 119.96
+	},
+	{
+		"LISTING_ID": 6476,
+		"USER_ID": 4146,
+		"ITEM_ID": 8057,
+		"ITEM_COST": 61.88
+	},
+	{
+		"LISTING_ID": 6477,
+		"USER_ID": 4313,
+		"ITEM_ID": 8067,
+		"ITEM_COST": 294.00
+	},
+	{
+		"LISTING_ID": 6478,
+		"USER_ID": 4485,
+		"ITEM_ID": 8219,
+		"ITEM_COST": 60.02
+	},
+	{
+		"LISTING_ID": 6479,
+		"USER_ID": 4483,
+		"ITEM_ID": 8068,
+		"ITEM_COST": 190.46
+	},
+	{
+		"LISTING_ID": 6480,
+		"USER_ID": 4108,
+		"ITEM_ID": 8396,
+		"ITEM_COST": 64.37
+	},
+	{
+		"LISTING_ID": 6481,
+		"USER_ID": 4331,
+		"ITEM_ID": 8421,
+		"ITEM_COST": 292.91
+	},
+	{
+		"LISTING_ID": 6482,
+		"USER_ID": 4419,
+		"ITEM_ID": 8258,
+		"ITEM_COST": 64.80
+	},
+	{
+		"LISTING_ID": 6483,
+		"USER_ID": 4422,
+		"ITEM_ID": 8183,
+		"ITEM_COST": 114.54
+	},
+	{
+		"LISTING_ID": 6484,
+		"USER_ID": 4365,
+		"ITEM_ID": 8479,
+		"ITEM_COST": 69.58
+	},
+	{
+		"LISTING_ID": 6485,
+		"USER_ID": 4488,
+		"ITEM_ID": 8488,
+		"ITEM_COST": 133.81
+	},
+	{
+		"LISTING_ID": 6486,
+		"USER_ID": 4256,
+		"ITEM_ID": 8429,
+		"ITEM_COST": 217.05
+	},
+	{
+		"LISTING_ID": 6487,
+		"USER_ID": 4234,
+		"ITEM_ID": 8335,
+		"ITEM_COST": 11.83
+	},
+	{
+		"LISTING_ID": 6488,
+		"USER_ID": 4464,
+		"ITEM_ID": 8024,
+		"ITEM_COST": 264.65
+	},
+	{
+		"LISTING_ID": 6489,
+		"USER_ID": 4120,
+		"ITEM_ID": 8141,
+		"ITEM_COST": 202.95
+	},
+	{
+		"LISTING_ID": 6490,
+		"USER_ID": 4183,
+		"ITEM_ID": 8492,
+		"ITEM_COST": 202.83
+	},
+	{
+		"LISTING_ID": 6491,
+		"USER_ID": 4089,
+		"ITEM_ID": 8417,
+		"ITEM_COST": 185.78
+	},
+	{
+		"LISTING_ID": 6492,
+		"USER_ID": 4474,
+		"ITEM_ID": 8101,
+		"ITEM_COST": 20.24
+	},
+	{
+		"LISTING_ID": 6493,
+		"USER_ID": 4243,
+		"ITEM_ID": 8452,
+		"ITEM_COST": 260.44
+	},
+	{
+		"LISTING_ID": 6494,
+		"USER_ID": 4323,
+		"ITEM_ID": 8315,
+		"ITEM_COST": 111.79
+	},
+	{
+		"LISTING_ID": 6495,
+		"USER_ID": 4384,
+		"ITEM_ID": 8131,
+		"ITEM_COST": 165.20
+	},
+	{
+		"LISTING_ID": 6496,
+		"USER_ID": 4273,
+		"ITEM_ID": 8375,
+		"ITEM_COST": 183.03
+	},
+	{
+		"LISTING_ID": 6497,
+		"USER_ID": 4179,
+		"ITEM_ID": 8407,
+		"ITEM_COST": 51.34
+	},
+	{
+		"LISTING_ID": 6498,
+		"USER_ID": 4042,
+		"ITEM_ID": 8219,
+		"ITEM_COST": 25.99
+	},
+	{
+		"LISTING_ID": 6499,
+		"USER_ID": 4156,
+		"ITEM_ID": 8331,
+		"ITEM_COST": 199.43
+	}
+]

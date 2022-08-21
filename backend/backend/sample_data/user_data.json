@@ -1,0 +1,92 @@
+[
+	{
+		"USER_ID": 1,
+		"USER_LNAME": "Sears",
+		"USER_FNAME": "Arthur",
+		"USER_EMAIL": "mauris.id.sapien@icloud.edu",
+		"USER_DOB": "2022-11-11",
+		"USER_ADDRESS": "116-3580 Scelerisque Av.",
+		"USER_ZIPCODE": "6245"
+	},
+	{
+		"USER_ID": 2,
+		"USER_LNAME": "Bridges",
+		"USER_FNAME": "Conan",
+		"USER_EMAIL": "eros.proin@icloud.ca",
+		"USER_DOB": "2021-06-12",
+		"USER_ADDRESS": "P.O. Box 439, 9293 Vestibulum Av.",
+		"USER_ZIPCODE": "468737"
+	},
+	{
+		"USER_ID": 3,
+		"USER_LNAME": "Nguyen",
+		"USER_FNAME": "Morgan",
+		"USER_EMAIL": "ornare.in.faucibus@hotmail.org",
+		"USER_DOB": "2022-01-11",
+		"USER_ADDRESS": "953-3094 Quis Av.",
+		"USER_ZIPCODE": "96686"
+	},
+	{
+		"USER_ID": 4,
+		"USER_LNAME": "Craig",
+		"USER_FNAME": "Rowan",
+		"USER_EMAIL": "tincidunt.donec.vitae@google.couk",
+		"USER_DOB": "2021-12-27",
+		"USER_ADDRESS": "P.O. Box 113, 3478 Tempor, Rd.",
+		"USER_ZIPCODE": "66550"
+	},
+	{
+		"USER_ID": 5,
+		"USER_LNAME": "Frost",
+		"USER_FNAME": "Maile",
+		"USER_EMAIL": "tellus.justo.sit@yahoo.couk",
+		"USER_DOB": "2023-02-13",
+		"USER_ADDRESS": "3149 Leo. Road",
+		"USER_ZIPCODE": "23446"
+	},
+	{
+		"USER_ID": 6,
+		"USER_LNAME": "York",
+		"USER_FNAME": "Sage",
+		"USER_EMAIL": "curabitur.sed@outlook.net",
+		"USER_DOB": "2021-04-05",
+		"USER_ADDRESS": "Ap #182-4570 Interdum St.",
+		"USER_ZIPCODE": "54-62"
+	},
+	{
+		"USER_ID": 7,
+		"USER_LNAME": "Wood",
+		"USER_FNAME": "Farrah",
+		"USER_EMAIL": "accumsan.neque.et@protonmail.couk",
+		"USER_DOB": "2022-11-04",
+		"USER_ADDRESS": "3833 Tempor Road",
+		"USER_ZIPCODE": "24652"
+	},
+	{
+		"USER_ID": 8,
+		"USER_LNAME": "West",
+		"USER_FNAME": "Odette",
+		"USER_EMAIL": "dignissim.tempor@aol.edu",
+		"USER_DOB": "2022-08-23",
+		"USER_ADDRESS": "Ap #641-7283 Accumsan Rd.",
+		"USER_ZIPCODE": "5176"
+	},
+	{
+		"USER_ID": 9,
+		"USER_LNAME": "Cantrell",
+		"USER_FNAME": "Ivy",
+		"USER_EMAIL": "vulputate.nisi@google.org",
+		"USER_DOB": "2022-10-24",
+		"USER_ADDRESS": "410-7004 Molestie St.",
+		"USER_ZIPCODE": "4478"
+	},
+	{
+		"USER_ID": 10,
+		"USER_LNAME": "Abbott",
+		"USER_FNAME": "Michelle",
+		"USER_EMAIL": "luctus.felis@outlook.net",
+		"USER_DOB": "2021-08-17",
+		"USER_ADDRESS": "Ap #819-4761 Mauris St.",
+		"USER_ZIPCODE": "43384"
+	}
+]
